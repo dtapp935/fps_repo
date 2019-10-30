@@ -2,16 +2,16 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+dylan__t_Germany/[Ll]ibrary/
+dylan__t_Germany/[Tt]emp/
+dylan__t_Germany/[Oo]bj/
+dylan__t_Germany/[Bb]uild/
+dylan__t_Germany/[Bb]uilds/
+dylan__t_Germany/[Ll]ogs/
+dylan__t_Germany/[Mm]emoryCaptures/
 
 # Never ignore Asset meta data
-!/[Aa]ssets/**/*.meta
+!dylan__t_Germany/[Aa]ssets/**/*.meta
 
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # /[Aa]ssets/AssetStoreTools*
@@ -23,7 +23,7 @@
 [Aa]ssets/Plugins/Editor/JetBrains*
 
 # Visual Studio cache directory
-.vs/
+dylan__t_Germany/.vs/
 
 # Gradle cache directory
 .gradle/
